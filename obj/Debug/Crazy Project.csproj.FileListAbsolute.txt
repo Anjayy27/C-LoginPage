@@ -1,0 +1,12 @@
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\bin\Debug\Crazy Project.exe.config
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\bin\Debug\Crazy Project.exe
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\bin\Debug\Crazy Project.pdb
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy Project.csproj.AssemblyReference.cache
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy_Project.Form1.resources
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy_Project.Form2.resources
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy_Project.Properties.Resources.resources
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy Project.csproj.GenerateResource.cache
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy Project.csproj.CoreCompileInputs.cache
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy Project.exe
+C:\Users\samb\source\repos\Crazy Project\Crazy Project\obj\Debug\Crazy Project.pdb
